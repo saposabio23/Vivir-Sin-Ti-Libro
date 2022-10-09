@@ -1,0 +1,30 @@
+:root {
+    --color-bg: #f1e8d4;
+    --color-secondary: #FFD700;
+    --color-terciary: #F5DEB3;
+    --color-black: black;
+    --color-black-op: rgba(0, 0, 0, 0.6);
+    --color-white: white;
+    --color-complementary-blue: #b0f5f2;
+    --color-complementary-green: #afeb52;
+
+    --font-sans: "OpenSans",BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    --font-serif: 'Cormorant', serif;
+    --font-size: 16px;
+    --font-std: 14px;
+    --font-size-serif: 17px;
+
+    --font-style-regular: 400;
+    --font-style-bold: 600;
+
+    --spacing-s: 10px;
+    --spacing-sm: 10px;
+    --spacing-m: 25px;
+    --spacing-l: 35px;
+    --spacing-xl: 70px;
+
+    --spacing-width-max: 45rem;
+    --spacing-width-xl: 80vw;
+
+    --shadow-strong: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.2));
+}
